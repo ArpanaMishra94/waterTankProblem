@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#input {
+    width: 8vw;
+    height: 3vh;
+}
+
+button {
+    width: 8vw;
+    height: 4vh;
+    margin: 0.5rem;
+}
+.table {
+    border: 1px solid black;
+}
+table {
+    width: 50vw;
+    height: 30vh;
+    border-collapse: collapse;
+}
+
+ 
